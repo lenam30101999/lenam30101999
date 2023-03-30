@@ -1,23 +1,18 @@
 ### Hi there 👋, I'm Le Nam
 
-<!--
-**lenam30101999/lenam30101999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## I'm a software engineer!!
 - 🌱 I’m currently learning Backend and DevOps
 - 👯 I’m looking to collaborate with good software developer
 - 🥅 My goals
-  -> Learn more about software architect
-  -> Design a system with high stability, bringing many benefits to users
-  -> Become a senior software engineer
+  - Learn more about software architect
+  - Design a system with high stability, bringing many benefits to users
+  - Become a senior software engineer
 - ⚡ Fun fact: I love to collect car models
 
 ## Connect with me:
 
-[<img style="margin-right: 8px" align="left" alt="namle3010 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img style="margin-right: 8px" align="left" alt="namle3010 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img style="margin-right: 8px" align="left" alt="namle3010 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img style="margin-right: 8px" align="left" alt="namle3010 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 ## Languages, Frameworks and Tools:
 
