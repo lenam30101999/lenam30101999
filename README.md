@@ -12,7 +12,7 @@
 ## Connect with me:
 
 <img style="margin-right: 8px" align="left" alt="namle3010 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img style="margin-right: 8px" align="left" alt="namle3010 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img style="margin-right: 8px" align="left" alt="namle3010 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><br/>
 
 ## Languages, Frameworks and Tools:
 
@@ -22,7 +22,7 @@
 
 <img align="left" alt="Postgres" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
-<img align="left" alt="Mysql" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png />
+<img align="left" alt="Mysql" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="MongoDB" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
