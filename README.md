@@ -7,7 +7,7 @@
   - Learn more about software architect
   - Design a system with high stability, bringing many benefits to users
   - Become a senior software engineer
-- ⚡ Fun fact: I love to collect car models
+- ⚡ Fun fact: I love to collect models such as car, robot
 
 ## Connect with me:
 
